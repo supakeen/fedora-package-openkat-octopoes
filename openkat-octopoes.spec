@@ -1,6 +1,6 @@
 Name:           openkat-octopoes
 Version:        main
-Release:        1%{?dist}
+Release:        0%{?dist}
 Summary:        The OpenKAT system knowledge-graph
 
 License:        EUPL 1.2
